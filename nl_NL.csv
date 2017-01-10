@@ -1704,7 +1704,7 @@ System,systeem,module,Magento_CurrencySymbol
 "Please enter a password with a valid length.","Geef een wachtwoord in met een geldige lengte.",module,Magento_CustomerImportExport
 "Sign Out",Afmelden,module,Magento_Customer
 "Sign In",Inloggen,module,Magento_Customer
-"You subscribe to our newsletter.","U abonneert zich op onze nieuwsbrief.",module,Magento_Customer
+"You subscribe to our newsletter.","U heeft zich niet geabonneerd op onze nieuwsbrief.",module,Magento_Customer
 "You don't subscribe to our newsletter.","U abonneren zich niet op onze nieuwsbrief.",module,Magento_Customer
 "You have not set a default shipping address.","U heeft geen standaard afleveradres ingevoerd.",module,Magento_Customer
 "You have not set a default billing address.","U heeft geen standaard factuuradres ingevoerd.",module,Magento_Customer
