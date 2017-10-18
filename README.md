@@ -6,10 +6,10 @@ This translation is usefull for people living in the Netherlands (Nederland).
 For our other language packs look at the [Magento2Translations](http://magento2translations.github.io/) page.
 
 # Version & progress
-This translation is generated from the branch [Head](https://crowdin.com/project/magento-2/nl#/Head) at Crowdin and based on the Magento 2.1.4 sourcefiles.
-There have been  7516 strings translated of the 8458 strings in the Magento source.
+This translation is generated from the branch [Head](https://crowdin.com/project/magento-2/nl#/Head) at Crowdin and based on the Magento 2.2.0 sourcefiles.
+There have been  7746 strings translated of the 8763 strings in the Magento source.
 
-Translation progress:![Progress](http://progressed.io/bar/89)
+Translation progress:![Progress](http://progressed.io/bar/88)
 
 # Instalation
 ## Via composer
