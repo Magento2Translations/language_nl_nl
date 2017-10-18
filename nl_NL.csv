@@ -1178,7 +1178,7 @@ Download,Downloads,module,Magento_Customer
 "Wrong email.","Onjuist e-mailadres.",module,Magento_Customer
 "Your password reset link has expired.","Uw wachtwoord-reset-link is verlopen",module,Magento_Customer
 "There is already an account with this email address. If you are sure that it is your email address, <a href=""%1"">click here</a> to get your password and access your account.","Er is al een account met dit e-mailadres. Als u zeker weet dat is het uw e-mailadres is, <a href=""%1"">kunt u een nieuw wachtwoord aanvragen</a>.",module,Magento_Customer
-"Account Information","Account Gegevens",module,Magento_Customer
+"Account Information",Accountgegevens,module,Magento_Customer
 "Invalid input","Ongeldige invoer",module,Magento_Customer
 "Please correct the email address.","Corrigeer het e-mailadres.",module,Magento_Customer
 "Please enter your email.","Voer uw e-mailadres in.",module,Magento_Customer
@@ -1552,7 +1552,7 @@ Yes,Ja,module,Magento_EncryptionKey
 "Express Saver","Express voordeeltarief",module,Magento_Fedex
 Ground,"Grond vervoer",module,Magento_Fedex
 "First Overnight","Deze nacht",module,Magento_Fedex
-"Home Delivery","Huis aflevering",module,Magento_Fedex
+"Home Delivery",Thuisaflevering,module,Magento_Fedex
 "International Economy","Internationaal Economy",module,Magento_Fedex
 "Intl Economy Freight","Int. Economy Freight",module,Magento_Fedex
 "International First","Internationaal First",module,Magento_Fedex
@@ -1870,7 +1870,7 @@ Subscribers,Abonnees,module,Magento_Newsletter
 "This is an invalid subscription ID.","Dit is een ongeldig abonnementsID.",module,Magento_Newsletter
 "This email address is already assigned to another user.","Dit E-Mailadres is al toegewezen aan een andere gebruiker.",module,Magento_Newsletter
 "Please enter a valid email address.","Vul een geldig e-mailadres in",module,Magento_Newsletter
-"The confirmation request has been sent.","De bevestigingsaanvraag werd verzonden.",module,Magento_Newsletter
+"The confirmation request has been sent.","Bedankt voor uw inschrijving, controleer uw e-mail inbox om uw aanvraag te bevestigen.",module,Magento_Newsletter
 "Thank you for your subscription.","Bedankt voor uw inschrijving.",module,Magento_Newsletter
 "There was a problem with the subscription: %1","Er is een probleem met uw inschrijving: %1",module,Magento_Newsletter
 "Something went wrong with the subscription.","Er ging iets mis met het abonnement.",module,Magento_Newsletter
@@ -2601,7 +2601,7 @@ Cancel,Annuleer,module,Magento_Sales
 Coupons,Kortingsbonnen,module,Magento_Sales
 "Please select a customer","Selecteer een klant",module,Magento_Sales
 "Create New Customer","Nieuwe klant aanmaken",module,Magento_Sales
-"Account Information","Account Gegevens",module,Magento_Sales
+"Account Information",Accountgegevens,module,Magento_Sales
 From,Van,module,Magento_Sales
 To,Aan,module,Magento_Sales
 Message,Bericht,module,Magento_Sales
@@ -3265,7 +3265,7 @@ Priority,Prioriteit,module,Magento_Tax
 "Add New Tax Class","Nieuwe BTW-tariefgroep",module,Magento_Tax
 "Shipping Incl. Tax (%1)","Verzendkosten incl. BTW (%1)",module,Magento_Tax
 "Shipping Excl. Tax (%1)","Verzendkosten excl. BTW (%1)",module,Magento_Tax
-"Subtotal (Excl.Tax)","Subtotaal (incl. BTW)",module,Magento_Tax
+"Subtotal (Excl.Tax)","Subtotaal (Excl. BTW)",module,Magento_Tax
 "Subtotal (Incl.Tax)","Subtotaal (incl. BTW)",module,Magento_Tax
 "Shipping & Handling (Excl.Tax)","Verzend- en verwerkingskosten (excl. BTW)",module,Magento_Tax
 "Shipping & Handling (Incl.Tax)","Verzend- en verwerkingskosten (incl. BTW)",module,Magento_Tax
@@ -3497,7 +3497,7 @@ Users,Gebruikers,module,Magento_User
 "Delete User","Gebruiker verwijderen",module,Magento_User
 "Edit User '%1'","Bewerken gebruiker '%1'",module,Magento_User
 "New User","Nieuwe gebruiker",module,Magento_User
-"Account Information","Account Gegevens",module,Magento_User
+"Account Information",Accountgegevens,module,Magento_User
 "User Email","E-mailadres van gebruiker",module,Magento_User
 Password,Wachtwoord,module,Magento_User
 "New Password","Nieuw wachtwoord",module,Magento_User
@@ -4070,7 +4070,7 @@ Watermark,Watermerk,module,Magento_Catalog
 "New Products Names Only Template","Enkel nieuwe producten sjabloon",module,Magento_Catalog
 "New Products Images Only Template","Enkel nieuwe afbeeldingen sjabloon",module,Magento_Catalog
 "Cache Lifetime (Seconds)","Cache Lifetime (in seconden)",module,Magento_Catalog
-"86400 by default, if not set. To refresh instantly, clear the Blocks HTML Output cache.","86400 als standaardwaarde, indien niet ingesteld. Voor direct vernieuwen, leeg de Blokken HTML Output cache.",module,Magento_Catalog
+"86400 by default, if not set. To refresh instantly, clear the Blocks HTML Output cache.","86400 als standaardwaarde, indien niet ingesteld. Voor direct vernieuwen, leeg de Blok-HTML output cache.",module,Magento_Catalog
 "Catalog Product Link","Catalogus Producten Link",module,Magento_Catalog
 "Link to a Specified Product","Link naar een Gespecificeerd Product",module,Magento_Catalog
 "Anchor Custom Text","Zet eigen tekst vast",module,Magento_Catalog
@@ -4110,7 +4110,7 @@ Details,Gegevens,module,Magento_Catalog
 "Cart Subtotal","Winkelwagen subtotaal",module,Magento_Checkout
 "Not yet calculated","Nog niet berekend",module,Magento_Checkout
 "Thank you for your purchase!","Bedankt voor uw bestelling!",module,Magento_Checkout
-"CMS Home Page","CMS thuispagina",module,Magento_Cms
+"CMS Home Page","CMS homepagina",module,Magento_Cms
 "CMS No Route Page","CMS-pagina > Pagina niet gevonden",module,Magento_Cms
 "CMS No Cookies Page","CMS geen Cookies pagina",module,Magento_Cms
 "Show Breadcrumbs for CMS Pages","Kruimelpad tonen voor CMS-pagina's",module,Magento_Cms
@@ -4720,7 +4720,7 @@ Enabled,Ingeschakeld,module,Magento_Sitemap
 "Last Generated","Laatst gegenereerd",module,Magento_Sitemap
 Action,Actie,module,Magento_Sitemap
 "Layout building instructions.","Instructies layout opbouwen.",module,Magento_Store
-"Blocks HTML output","Blokken HTML-uitvoer",module,Magento_Store
+"Blocks HTML output","Blok-HTML output",module,Magento_Store
 "Page blocks HTML.","Pagina blokken HTML.",module,Magento_Store
 "Collections Data","Verzamelingen gegevens",module,Magento_Store
 "Collection data files.","Collectie gegevensbestanden.",module,Magento_Store
@@ -4800,7 +4800,7 @@ Translations,Vertalingen,module,Magento_Translation
 "Handling Applied","Verwerkingskosten toegepast",module,Magento_Ups
 "Handling Fee",Verwerkingskosten,module,Magento_Ups
 "Maximum Package Weight (Please consult your shipping carrier for maximum supported shipping weight)","Maximum pakketgewicht (Vraag uw transportbedrijf naar het maximaal toegestane pakketgewicht)",module,Magento_Ups
-"Minimum Package Weight (Please consult your shipping carrier for minimum supported shipping weight)","Minimum Pakket Gewicht (neem contact op met uw logistieke dienstverlener om dit te achterhalen)",module,Magento_Ups
+"Minimum Package Weight (Please consult your shipping carrier for minimum supported shipping weight)","Minimum pakketgewicht (Vraag uw vervoerder naar het minimaal toegestane pakketgewicht)",module,Magento_Ups
 "Origin of the Shipment","Oorsprong van verzending",module,Magento_Ups
 Password,Wachtwoord,module,Magento_Ups
 "Pickup Method",Afhaalwijze,module,Magento_Ups
@@ -4823,9 +4823,9 @@ Mode,Type,module,Magento_Ups
 Action,Actie,module,Magento_UrlRewrite
 Edit,Bewerken,module,Magento_UrlRewrite
 "Reset Password Template","Reset wachtwoord sjabloon",module,Magento_User
-"Maximum Login Failures to Lockout Account","Maximaal aantal foute logins om het account te blokkeren",module,Magento_User
+"Maximum Login Failures to Lockout Account","Maximaal aantal foute logins om het account te vergrendelen",module,Magento_User
 "We will disable this feature if the value is empty.","Functie wordt uitgeschakeld als de waarde leeg is.",module,Magento_User
-"Lockout Time (minutes)","Lockout Tijd (minuten)",module,Magento_User
+"Lockout Time (minutes)","Duur vergrendeling (minuten)",module,Magento_User
 "Password Lifetime (days)","Levensduur Wachtwoord (dagen)",module,Magento_User
 "Password Change","Wachtwoord Wijzigen",module,Magento_User
 Unlock,Openen,module,Magento_User
@@ -4844,7 +4844,7 @@ Width,Breedte,module,Magento_Usps
 Height,Hoogte,module,Magento_Usps
 Girth,Omtrek,module,Magento_Usps
 Machinable,Machinaal,module,Magento_Usps
-"Maximum Package Weight (Please consult your shipping carrier for maximum supported shipping weight)","Maximum pakketgewicht (Vraag uw transportbedrijf naar het maximaal toegestane pakketgewicht)",module,Magento_Usps
+"Maximum Package Weight (Please consult your shipping carrier for maximum supported shipping weight)","Maximum pakketgewicht (Vraag uw vervoerder naar het maximaal toegestane pakketgewicht)",module,Magento_Usps
 "Calculate Handling Fee","Verzendkosten berekenen",module,Magento_Usps
 "Handling Applied","Verwerkingskosten toegepast",module,Magento_Usps
 "Handling Fee",Verwerkingskosten,module,Magento_Usps
