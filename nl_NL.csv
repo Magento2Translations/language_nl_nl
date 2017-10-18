@@ -5724,6 +5724,7 @@ edit,bewerken,module,Magento_Checkout
 "View and Edit Cart","Bekijk en bewerk winkelwagen",module,Magento_Checkout
 "View Details","Bekijk details",module,Magento_Checkout
 "Contact Form",Contactformulier,module,Magento_Contact
+Phone,Telefoon,module,Magento_Contact
 "Welcome to %store_name","Welkom bij %store_name",module,Magento_Customer
 "Welcome to %store_name.","Welkom op %store_name.",module,Magento_Customer
 "To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:","Om in te loggen op onze website, gebruik deze gegevens tijdens het betalen of op de <a href=""%customer_url"">Uw Account</a> pagina:",module,Magento_Customer
@@ -5755,10 +5756,12 @@ Password:,Wachtwoord:,module,Magento_Customer
 "If you did not make this request, you can ignore this email and your password will remain the same.","Indien u deze aanvraag niet heeft ingediend, kan u deze email negeren en uw wachtwoord zal ongewijzigd blijven.",module,Magento_Customer
 "Your %store_name password has been changed","Uw %store_name wachtwoord is veranderd",module,Magento_Customer
 "We have received a request to change the following information associated with your account at %store_name: password.","Wij hebben een verzoek ontvangen om de volgende informatie gekoppeld aan uw account op %store_name te wijzigen: wachtwoord.",module,Magento_Customer
+"Checkout out as a new customer","Afrekenen als een nieuwe klant",module,Magento_Customer
 "Creating an account has many benefits:","Het aanmaken van een account heeft vele voordelen:",module,Magento_Customer
 "See order and shipping status","Bekijk bestelling en verzendstatus",module,Magento_Customer
 "Track order history","Bekijk bestelgeschiedenis",module,Magento_Customer
 "Check out faster","Reken sneller af",module,Magento_Customer
+"Checkout out using your account","Reken af met uw account",module,Magento_Customer
 "Email Address","E-mail adres",module,Magento_Customer
 "Currency Update Warnings","Waarschuwingen valuta-update",module,Magento_Directory
 "Thank you, %store_name","Dank u, %store_name",module,Magento_Email
@@ -6339,6 +6342,7 @@ Amount,Aantal,module,Magento_Braintree
 "Settlement Batch ID","Betalings batch ID",module,Magento_Braintree
 Currency,Valuta,module,Magento_Braintree
 Select...,Selecteer...,module,Magento_Bundle
+"Special Price","Speciale prijs",module,Magento_Bundle
 "Enable CAPTCHA in Admin","CAPTCHA activeren in admin",module,Magento_Captcha
 Font,Lettertype,module,Magento_Captcha
 Forms,Formulieren,module,Magento_Captcha
@@ -6790,6 +6794,7 @@ Currency,Valuta,module,Magento_CurrencySymbol
 "Leave empty for default (15 minutes).","Laat leeg voor standaard (15 minuten).",module,Magento_Customer
 "Customer Notification",Klantnotificatie,module,Magento_Customer
 "Assign a Customer Group","Klantgroep toewijzen",module,Magento_Customer
+"Are you sure to assign selected customers to new group?","Ben u zeker dat u de geselecteerde klanten wil toevoegen aan een nieuwe groep?",module,Magento_Customer
 "Customer Grid",Klantentabel,module,Magento_Customer
 "Rebuild Customer grid index","Klant-tabel index herbouwen",module,Magento_Customer
 Group,Groep,module,Magento_Customer
