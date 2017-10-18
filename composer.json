@@ -16,10 +16,10 @@
         }
     ],
     "require": {
-        "magento/framework": "~100.0"
+        "magento/framework": ">=100.0"
     },
     "type": "magento2-language",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "autoload": {
         "files": [
             "registration.php"
