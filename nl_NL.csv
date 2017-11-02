@@ -409,7 +409,7 @@ Exclude,"Sluit uit",module,Magento_Backup
 "Magento root directory","Magento root folder",module,Magento_Backup
 "Create Backup","Backup maken",module,Magento_Backup
 Country,Land,module,Magento_Braintree
-"Allowed Credit Card Types","Toegestane credit card typen",module,Magento_Braintree
+"Allowed Credit Card Types","Toegestane creditcard typen",module,Magento_Braintree
 "Add Rule","Regel toevoegen",module,Magento_Braintree
 "Sorry, but something went wrong","Er ging iets mis",module,Magento_Braintree
 "We can't initialize checkout.","Wij kunnen de checkout niet initialiseren.",module,Magento_Braintree
@@ -506,7 +506,7 @@ Canceled,Geannuleerd,module,Magento_Bundle
 "As low as",Vanaf,module,Magento_Bundle
 "Regular Price","Normale prijs",module,Magento_Bundle
 From,Van,module,Magento_Bundle
-To,Aan,module,Magento_Bundle
+To,Tot,module,Magento_Bundle
 "Buy %1 with %2 discount each","%1 kopen met %2 korting elk",module,Magento_Bundle
 "Go back to product details","Ga terug naar Productgegevens",module,Magento_Bundle
 "Customize and Add to Cart","Aanpassen en aan winkelwagen toevoegen",module,Magento_Bundle
@@ -1849,7 +1849,7 @@ Download,Downloads,module,Magento_Customer
 "The customer would belong to Customer Group %s.","De klant zou behoren tot de groep Customer %s.",module,Magento_Customer
 "There was an error detecting Customer Group.","Er is een fout opgetreden bij Klant Groep.",module,Magento_Customer
 "Validate VAT Number","Valideer BTW-nummer",module,Magento_Customer
-"Customer Login",Klant-login,module,Magento_Customer
+"Customer Login","Klant Login",module,Magento_Customer
 "Create New Customer Account","Nieuw account aanmaken",module,Magento_Customer
 "Date of Birth",Geboortedatum,module,Magento_Customer
 "Bad request.","Foute aanvraag",module,Magento_Customer
@@ -5706,7 +5706,7 @@ Cancel,Annuleer,module,Magento_Checkout
 "Estimated Total","Winkelwagen subtotaal",module,Magento_Checkout
 "You can create an account after checkout.","U kunt een account maken na het afrekenen.",module,Magento_Checkout
 "You already have an account with us. Sign in or continue as guest.","U heeft al een account bij ons. Log in of ga door zonder account.",module,Magento_Checkout
-Login,"Log in",module,Magento_Checkout
+Login,Inloggen,module,Magento_Checkout
 "See Details","Bekijk details",module,Magento_Checkout
 "Options Details","Optie Details",module,Magento_Checkout
 Remove,Verwijder,module,Magento_Checkout
