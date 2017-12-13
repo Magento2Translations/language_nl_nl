@@ -116,7 +116,7 @@ Email,E-mail,module,Magento_Backend
 "User Email","E-mail van gebruiker",module,Magento_Backend
 "New Password","Nieuw wachtwoord",module,Magento_Backend
 "Password Confirmation","Wachtwoord bevestiging",module,Magento_Backend
-"Interface Locale","Lokale interface",module,Magento_Backend
+"Interface Locale",Interfacetaal,module,Magento_Backend
 "Current User Identity Verification","Huidige gebruiker verificatie",module,Magento_Backend
 "Your Password","Uw wachtwoord",module,Magento_Backend
 "Save Cache Settings","Cache-instellingen opslaan",module,Magento_Backend
@@ -194,7 +194,7 @@ Search,Zoek,module,Magento_Backend
 Any,Elke,module,Magento_Backend
 "All Countries","Alle landen",module,Magento_Backend
 From,Van,module,Magento_Backend
-To,Aan,module,Magento_Backend
+To,Tot,module,Magento_Backend
 "Date selector",Datumkiezer,module,Magento_Backend
 "[ deleted ]","[ verwijderd ]",module,Magento_Backend
 "Select All","Alles selecteren",module,Magento_Backend
@@ -534,10 +534,11 @@ Always,Altijd,module,Magento_Captcha
 "Please enter the letters from the image","Voer de letters van de afbeelding in",module,Magento_Captcha
 "<strong>Attention</strong>: Captcha is case sensitive.","<strong>Let op</strong>: Captcha is hoofdletter gevoelig.",module,Magento_Captcha
 "Reload captcha","CAPTCHA herladen",module,Magento_Captcha
-"Please type the letters below","Type de letter hieronder",module,Magento_Captcha
+"Please type the letters below","Typ de letters hieronder",module,Magento_Captcha
 "Entity type model '%1' is not found","Type entiteitsmodel '%1' is niet gevonden",module,Magento_CatalogImportExport
 "Entity type model must be an instance of \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType","Entiteitstype model moet onderdeel zijn van\Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType",module,Magento_CatalogImportExport
 "There are no product types available for export.","Er zijn geen product-typen beschikbaar om te exporteren.",module,Magento_CatalogImportExport
+"Entity type model must be an instance of '%1'","'Entiteit type model moet een exemplaar zijn van '%1'",module,Magento_CatalogImportExport
 "Category ""%1"" has not been created.","Categorie ""%1"" is niet gemaakt.",module,Magento_CatalogImportExport
 "File directory '%1' is not readable.","Bestandsmap '%1' is niet leesbaar.",module,Magento_CatalogImportExport
 "File directory '%1' is not writable.","Bestandsmap '%1' is niet schrijfbaar.",module,Magento_CatalogImportExport
@@ -3358,6 +3359,7 @@ Role,Rol,module,Magento_ProductVideo
 "YouTube and Vimeo supported.","Youtube en Vimeo ondersteund.",module,Magento_ProductVideo
 "Vimeo supported.<br />To add YouTube video, please <a href=""%1"">enter YouTube API Key</a> first.","Vimeo ondersteund.<br />Om een YouTube video toe te voegen, gelieve eerst<a href=""%1"">uw YouTube API Key in te vullen</a>.",module,Magento_ProductVideo
 "Protocol isn't allowed","Protocol is niet toegestaan",module,Magento_ProductVideo
+"Disallowed file type.","Bestandstype niet toegestaan.",module,Magento_ProductVideo
 "Could not get preview image information. Please check your connection and try again.","Kan afbeelding voorvertoning niet ophalen. Controleer uw verbinding en probeer het opnieuw.",module,Magento_ProductVideo
 "Add Video","Video toevoegen",module,Magento_ProductVideo
 "Browse to find or drag image here","Bladeren om de afbeelding te vinden of sleep de afbeelding hierheen",module,Magento_ProductVideo
@@ -4319,7 +4321,10 @@ Closed,gesloten,module,Magento_Sales
 New,Nieuw,module,Magento_Sales
 "test message",testbericht,module,Magento_Sales
 "Email has not been sent","E-mail is niet verzonden",module,Magento_Sales
+"Authorized amount of %1.","Autorisatiewaarde %1.",module,Magento_Sales
 "We will authorize %1 after the payment is approved at the payment gateway.","We zullen %1 toestaan nadat de betaling is goedgekeurd via de betaalgateway.",module,Magento_Sales
+"Authorized amount of %1. Order is suspended as its authorizing amount %1 is suspected to be fraudulent.","Goedgekeurd bedrag van %1. Order is aangehouden omdat het te authoriseren bedrag %1 als frauduleus gemarkeerd is.",module,Magento_Sales
+"Captured amount of %1 online.","Bedrag van %1 via betaalplatform geregistreerd.",module,Magento_Sales
 "Authorized amount of %1","Autorisatiewaarde %1",module,Magento_Sales
 "Something went wrong","Er is iets fout gegaan",module,Magento_Sales
 View,Bekijk,module,Magento_Sales
@@ -4745,7 +4750,7 @@ N/A,n.v.t.,module,Magento_Shipping
 Location,Plaats,module,Magento_Shipping
 Date,Datum,module,Magento_Shipping
 "Local Time","Lokale tijd",module,Magento_Shipping
-Description,Beschrijving,module,Magento_Shipping
+Description,Omschrijving,module,Magento_Shipping
 "Save & Generate","Opslaan & genereren",module,Magento_Sitemap
 "Edit Sitemap","Sitemap bewerken",module,Magento_Sitemap
 "New Sitemap","Nieuwe sitemap",module,Magento_Sitemap
@@ -4957,6 +4962,7 @@ Total,Totaal,module,Magento_Tax
 None,Geen,module,Magento_Tax
 "Including and Excluding Tax","In- en exclusief BTW",module,Magento_Tax
 "Click on the link to <a href=""%1"">ignore this notification</a>","Klik op de link om <a href=""%1"">deze notificatie te negeren</a>",module,Magento_Tax
+"With customer tax applied “Before Discount”, the final discount calculation may not match customers’ expectations.","Met klant belasting toegepast ""Vóór korting"", de definitieve berekening mogelijk niet overeen met de verwachtingen van klanten.",module,Magento_Tax
 "Click here to go to <a href=""%1"">Tax Configuration</a> and change your settings.","Ga naar <a href=""%1"">BTW configuratie</a> om uw instellingen aan te passen.",module,Magento_Tax
 "Invalid type of tax class ""%1""","Ongeldig soort BTW-tariefgroep ""%1""",module,Magento_Tax
 "Updating classType is not allowed.","Klasse type bijwerken is niet toegestaan.",module,Magento_Tax
@@ -5228,7 +5234,7 @@ Users,Gebruikers,module,Magento_User
 Password,Wachtwoord,module,Magento_User
 "New Password","Nieuw wachtwoord",module,Magento_User
 "Password Confirmation","Bevestiging wachtwoord",module,Magento_User
-"Interface Locale","Lokale interface",module,Magento_User
+"Interface Locale",Interfacetaal,module,Magento_User
 "This account is","Dit account is",module,Magento_User
 "Account Status",Accountinstellingen,module,Magento_User
 "User Roles Information","Rolgegevens gebruiker",module,Magento_User
@@ -6173,7 +6179,7 @@ Security,Beveiliging,module,Magento_Backend
 "Use SID on Storefront","Gebruik SID op Storefront",module,Magento_Backend
 "Allows customers to stay logged in when switching between different stores.","Stelt bezoekers instaat om ingelogd te blijven, zelfs bij het switchen van winkels.",module,Magento_Backend
 "Cache Type","Cache Soort",module,Magento_Backend
-Description,Beschrijving,module,Magento_Backend
+Description,Omschrijving,module,Magento_Backend
 Tags,tags,module,Magento_Backend
 "<h1 class=""page-heading"">404 Error</h1><p>Page not found.</p>","<h1 class=""page-heading"">404 Error</h1><p>Pagina niet gevonden.</p>",module,Magento_Backend
 "Default Theme","Standaard thema",module,Magento_Backend
@@ -6374,7 +6380,7 @@ Comma-separated.,"gescheiden door een komma",module,Magento_Catalog
 "Reorganize EAV category structure to flat structure","EAV categoriestructuur naar platte structuur omschrijving",module,Magento_Catalog
 "Category Products","Categorie producten",module,Magento_Catalog
 "Indexed category/products association",Categorieën/product-koppeling,module,Magento_Catalog
-"Product Categories",Productcategorie&euml;n,module,Magento_Catalog
+"Product Categories",Productcategorieën,module,Magento_Catalog
 "Indexed product/categories association","Geïndexeerde product/categorieën koppeling",module,Magento_Catalog
 "Product Price",Productprijs,module,Magento_Catalog
 "Index product prices",Productprijzen,module,Magento_Catalog
@@ -7150,7 +7156,7 @@ Action,Actie,module,Magento_Reports
 "Refresh Statistics for the Last Day","Vernieuw Statistieken van vandaag",module,Magento_Reports
 "Are you sure you want to refresh statistics for the last day?","Weet u zeker dat u de statistieken van afgelopen dag wilt vernieuwen?",module,Magento_Reports
 Report,Verslag,module,Magento_Reports
-Description,Beschrijving,module,Magento_Reports
+Description,Omschrijving,module,Magento_Reports
 undefined,"niet van toepassing",module,Magento_Reports
 "By Customers","Per klant",module,Magento_Review
 "By Products","Per product",module,Magento_Review
@@ -7169,7 +7175,7 @@ Priority,Prioriteit,module,Magento_SalesRule
 Back,Terug,module,Magento_SalesRule
 "Rule Information","Regel Informatie",module,Magento_SalesRule
 "Rule Name","Regel Naam",module,Magento_SalesRule
-Description,Beschrijving,module,Magento_SalesRule
+Description,Omschrijving,module,Magento_SalesRule
 "Customer Groups",Klantengroepen,module,Magento_SalesRule
 Coupon,Tegoedbon,module,Magento_SalesRule
 "Use Auto Generation","Gebruik auto-aanmaken",module,Magento_SalesRule
