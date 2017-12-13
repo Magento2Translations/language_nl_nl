@@ -118,7 +118,7 @@ Email,E-mail,module,Magento_Backend
 "User Email","E-mail van gebruiker",module,Magento_Backend
 "New Password","Nieuw wachtwoord",module,Magento_Backend
 "Password Confirmation","Wachtwoord bevestiging",module,Magento_Backend
-"Interface Locale","Lokale interface",module,Magento_Backend
+"Interface Locale",Interfacetaal,module,Magento_Backend
 "Current User Identity Verification","Huidige gebruiker verificatie",module,Magento_Backend
 "Your Password","Uw wachtwoord",module,Magento_Backend
 "Save Cache Settings","Cache-instellingen opslaan",module,Magento_Backend
@@ -196,7 +196,7 @@ Search,Zoek,module,Magento_Backend
 Any,Elke,module,Magento_Backend
 "All Countries","Alle landen",module,Magento_Backend
 From,Van,module,Magento_Backend
-To,Aan,module,Magento_Backend
+To,Tot,module,Magento_Backend
 "Date selector",Datumkiezer,module,Magento_Backend
 "[ deleted ]","[ verwijderd ]",module,Magento_Backend
 "Select All","Alles selecteren",module,Magento_Backend
@@ -539,7 +539,7 @@ Always,Altijd,module,Magento_Captcha
 "Please enter the letters from the image","Voer de letters van de afbeelding in",module,Magento_Captcha
 "<strong>Attention</strong>: Captcha is case sensitive.","<strong>Let op</strong>: Captcha is hoofdletter gevoelig.",module,Magento_Captcha
 "Reload captcha","CAPTCHA herladen",module,Magento_Captcha
-"Please type the letters below","Type de letter hieronder",module,Magento_Captcha
+"Please type the letters below","Typ de letters hieronder",module,Magento_Captcha
 "Entity type model '%1' is not found","Type entiteitsmodel '%1' is niet gevonden",module,Magento_CatalogImportExport
 "Entity type model must be an instance of \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType","Entiteitstype model moet onderdeel zijn van\Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType",module,Magento_CatalogImportExport
 "There are no product types available for export.","Er zijn geen product-typen beschikbaar om te exporteren.",module,Magento_CatalogImportExport
@@ -3490,6 +3490,7 @@ Subtotal,Subtotaal,module,Magento_Quote
 "Cannot assign customer to the given cart. The cart is not anonymous.","De klant kan niet toegewezen worden aan deze winkelwagen. De winkelwagen is niet anoniem.",module,Magento_Quote
 "Cannot assign customer to the given cart. Customer already has active cart.","De klant kan niet toegewezen worden aan deze winkelwagen. De klant heeft al een actieve winkelwagen.",module,Magento_Quote
 "An error occurred on the server. Please try to place the order again.","Er is een fout opgetreden op de server. Probeer de bestelling opnieuw te plaatsen.",module,Magento_Quote
+"Invalid state change requested","Ongeldige statuswijziging gevraagd",module,Magento_Quote
 "Only 1 shipping assignment can be set","Slechts 1 verzending toewijzing kan worden ingesteld",module,Magento_Quote
 "This item price or quantity is not valid for checkout.","Deze productprijs of aantal is niet geldig voor afhandeling.",module,Magento_Quote
 "Please check the shipping address information. %1","Gelieve de verzendgegevens van dit adres te controleren. %1",module,Magento_Quote
@@ -4818,7 +4819,7 @@ N/A,n.v.t.,module,Magento_Shipping
 Location,Plaats,module,Magento_Shipping
 Date,Datum,module,Magento_Shipping
 "Local Time","Lokale tijd",module,Magento_Shipping
-Description,Beschrijving,module,Magento_Shipping
+Description,Omschrijving,module,Magento_Shipping
 "Save & Generate","Opslaan & genereren",module,Magento_Sitemap
 "Edit Sitemap","Sitemap bewerken",module,Magento_Sitemap
 "New Sitemap","Nieuwe sitemap",module,Magento_Sitemap
@@ -5312,7 +5313,7 @@ Users,Gebruikers,module,Magento_User
 Password,Wachtwoord,module,Magento_User
 "New Password","Nieuw wachtwoord",module,Magento_User
 "Password Confirmation","Bevestiging wachtwoord",module,Magento_User
-"Interface Locale","Lokale interface",module,Magento_User
+"Interface Locale",Interfacetaal,module,Magento_User
 "This account is","Dit account is",module,Magento_User
 "Account Status",Accountinstellingen,module,Magento_User
 "User Roles Information","Rolgegevens gebruiker",module,Magento_User
@@ -5389,6 +5390,7 @@ Resources,Bronnen,module,Magento_User
 "Warning!\r\nThis action will remove those users from already assigned roles\r\nAre you sure?","Waarschuwin:\r\nDeze actie verwijderd de gebruikers van de reeds toegekende rollen\r\nBent u zeker?",module,Magento_User
 "First-Class Mail Large Envelope","First-Class Mail grote envelop",module,Magento_Usps
 "First-Class Mail Letter","First-Class Mail brief",module,Magento_Usps
+"First-Class Package Service - Retail","First-Class Mail - Winkel",module,Magento_Usps
 "Priority Mail","Priority Post",module,Magento_Usps
 "Priority Mail Express Hold For Pickup","Vast tarief Priority Mail Express Vasthouden voor afhalen",module,Magento_Usps
 "Retail Ground",Winkelgrond,module,Magento_Usps
@@ -5900,6 +5902,8 @@ Password:,Wachtwoord:,theme,frontend/Magento/luma
 "Sorry, but something went wrong. Please contact the seller.","Er ging iets mis. Neem contact op met de verkoper.",module,Magento_Authorizenet
 "We could not detect a size.","We kunnen geen grootte detecteren.",module,Magento_Backend
 "We don't recognize or support this file extension type.","We herkennen of ondersteunen dit bestandsformaat type niet.",module,Magento_Backend
+"Warning message",Waarschuwingsbericht,module,Magento_Backend
+"This operation can take a long time","Deze bewerking kan lang duren",module,Magento_Backend
 "This payment is not available","Deze betaling is niet beschikbaar",module,Magento_Braintree
 YY,JJ,module,Magento_Braintree
 "Please try again with another form of payment.","Probeer het opnieuw met een andere vorm van betaling.",module,Magento_Braintree
@@ -6131,6 +6135,7 @@ Content,inhoud,module,Magento_Backend
 Elements,Elementen,module,Magento_Backend
 Design,Ontwerp,module,Magento_Backend
 Schedule,Tijdsplanning,module,Magento_Backend
+"Content translation","Content vertaling",module,Magento_Backend
 Settings,Instellingen,module,Magento_Backend
 Attributes,Attributen,module,Magento_Backend
 "Other Settings","Andere instellingen",module,Magento_Backend
@@ -6258,7 +6263,7 @@ Security,Beveiliging,module,Magento_Backend
 "Use SID on Storefront","Gebruik SID op Storefront",module,Magento_Backend
 "Allows customers to stay logged in when switching between different stores.","Stelt bezoekers instaat om ingelogd te blijven, zelfs bij het switchen van winkels.",module,Magento_Backend
 "Cache Type","Cache Soort",module,Magento_Backend
-Description,Beschrijving,module,Magento_Backend
+Description,Omschrijving,module,Magento_Backend
 Tags,tags,module,Magento_Backend
 "<h1 class=""page-heading"">404 Error</h1><p>Page not found.</p>","<h1 class=""page-heading"">404 Error</h1><p>Pagina niet gevonden.</p>",module,Magento_Backend
 "Default Theme","Standaard thema",module,Magento_Backend
@@ -6339,6 +6344,7 @@ Amount,Aantal,module,Magento_Braintree
 "Settlement Batch ID","Betalings batch ID",module,Magento_Braintree
 Currency,Valuta,module,Magento_Braintree
 Select...,Selecteer...,module,Magento_Bundle
+"Special Price","Speciale prijs",module,Magento_Bundle
 "Enable CAPTCHA in Admin","CAPTCHA activeren in admin",module,Magento_Captcha
 Font,Lettertype,module,Magento_Captcha
 Forms,Formulieren,module,Magento_Captcha
@@ -6476,7 +6482,7 @@ Comma-separated.,"gescheiden door een komma",module,Magento_Catalog
 "Reorganize EAV category structure to flat structure","EAV categoriestructuur naar platte structuur omschrijving",module,Magento_Catalog
 "Category Products","Categorie producten",module,Magento_Catalog
 "Indexed category/products association",Categorieën/product-koppeling,module,Magento_Catalog
-"Product Categories",Productcategorie&euml;n,module,Magento_Catalog
+"Product Categories",Productcategorieën,module,Magento_Catalog
 "Indexed product/categories association","Geïndexeerde product/categorieën koppeling",module,Magento_Catalog
 "Product Price",Productprijs,module,Magento_Catalog
 "Index product prices",Productprijzen,module,Magento_Catalog
@@ -7272,7 +7278,7 @@ Action,Actie,module,Magento_Reports
 "Refresh Statistics for the Last Day","Vernieuw Statistieken van vandaag",module,Magento_Reports
 "Are you sure you want to refresh statistics for the last day?","Weet u zeker dat u de statistieken van afgelopen dag wilt vernieuwen?",module,Magento_Reports
 Report,Verslag,module,Magento_Reports
-Description,Beschrijving,module,Magento_Reports
+Description,Omschrijving,module,Magento_Reports
 undefined,"niet van toepassing",module,Magento_Reports
 "By Customers","Per klant",module,Magento_Review
 "By Products","Per product",module,Magento_Review
@@ -7292,7 +7298,7 @@ Back,Terug,module,Magento_SalesRule
 "Currently Active","Momenteel actief",module,Magento_SalesRule
 "Rule Information","Regel Informatie",module,Magento_SalesRule
 "Rule Name","Regel Naam",module,Magento_SalesRule
-Description,Beschrijving,module,Magento_SalesRule
+Description,Omschrijving,module,Magento_SalesRule
 "Customer Groups",Klantengroepen,module,Magento_SalesRule
 Coupon,Tegoedbon,module,Magento_SalesRule
 "Use Auto Generation","Gebruik auto-aanmaken",module,Magento_SalesRule
