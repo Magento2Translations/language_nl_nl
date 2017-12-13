@@ -115,7 +115,7 @@ Email,E-mail,module,Magento_Backend
 "User Email","E-mail van gebruiker",module,Magento_Backend
 "New Password","Nieuw wachtwoord",module,Magento_Backend
 "Password Confirmation","Wachtwoord bevestiging",module,Magento_Backend
-"Interface Locale","Lokale interface",module,Magento_Backend
+"Interface Locale",Interfacetaal,module,Magento_Backend
 "Current User Identity Verification","Huidige gebruiker verificatie",module,Magento_Backend
 "Your Password","Uw wachtwoord",module,Magento_Backend
 "Save Cache Settings","Cache-instellingen opslaan",module,Magento_Backend
@@ -193,7 +193,7 @@ Search,Zoek,module,Magento_Backend
 Any,Elke,module,Magento_Backend
 "All Countries","Alle landen",module,Magento_Backend
 From,Van,module,Magento_Backend
-To,Aan,module,Magento_Backend
+To,Tot,module,Magento_Backend
 "Date selector",Datumkiezer,module,Magento_Backend
 "[ deleted ]","[ verwijderd ]",module,Magento_Backend
 "Select All","Alles selecteren",module,Magento_Backend
@@ -576,7 +576,7 @@ Always,Altijd,module,Magento_Captcha
 "Please enter the letters from the image","Voer de letters van de afbeelding in",module,Magento_Captcha
 "<strong>Attention</strong>: Captcha is case sensitive.","<strong>Let op</strong>: Captcha is hoofdletter gevoelig.",module,Magento_Captcha
 "Reload captcha","CAPTCHA herladen",module,Magento_Captcha
-"Please type the letters below","Type de letter hieronder",module,Magento_Captcha
+"Please type the letters below","Typ de letters hieronder",module,Magento_Captcha
 "Entity type model '%1' is not found","Type entiteitsmodel '%1' is niet gevonden",module,Magento_CatalogImportExport
 "Entity type model must be an instance of \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType","Entiteitstype model moet onderdeel zijn van\Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType",module,Magento_CatalogImportExport
 "There are no product types available for export.","Er zijn geen product-typen beschikbaar om te exporteren.",module,Magento_CatalogImportExport
@@ -3686,7 +3686,7 @@ Delete,Verwijder,module,Magento_SalesRule
 "Store View Specific Labels","Winkelaanzicht specifieke labels",module,Magento_SalesRule
 "General Information","Generale informatie",module,Magento_SalesRule
 "Rule Name","Regel Naam",module,Magento_SalesRule
-Description,Beschrijving,module,Magento_SalesRule
+Description,Omschrijving,module,Magento_SalesRule
 Active,Actief,module,Magento_SalesRule
 Inactive,Inactief,module,Magento_SalesRule
 "Customer Groups",Klantengroepen,module,Magento_SalesRule
@@ -4601,7 +4601,7 @@ N/A,n.v.t.,module,Magento_Shipping
 Location,Plaats,module,Magento_Shipping
 Date,Datum,module,Magento_Shipping
 "Local Time","Lokale tijd",module,Magento_Shipping
-Description,Beschrijving,module,Magento_Shipping
+Description,Omschrijving,module,Magento_Shipping
 "There is no tracking available for this shipment.","Er is geen tracking beschikbaar voor deze verzending.",module,Magento_Shipping
 "There is no tracking available.","Er is geen tracking beschikbaar.",module,Magento_Shipping
 "Close Window","sluit venster",module,Magento_Shipping
@@ -5057,7 +5057,7 @@ Users,Gebruikers,module,Magento_User
 Password,Wachtwoord,module,Magento_User
 "New Password","Nieuw wachtwoord",module,Magento_User
 "Password Confirmation","Bevestiging wachtwoord",module,Magento_User
-"Interface Locale","Lokale interface",module,Magento_User
+"Interface Locale",Interfacetaal,module,Magento_User
 "This account is","Dit account is",module,Magento_User
 "Account Status",Accountinstellingen,module,Magento_User
 "Current User Identity Verification","Huidige gebruiker verificatie",module,Magento_User
@@ -5775,7 +5775,7 @@ Security,Beveiliging,module,Magento_Backend
 "Use SID on Storefront","Gebruik SID op Storefront",module,Magento_Backend
 "Allows customers to stay logged in when switching between different stores.","Stelt bezoekers instaat om ingelogd te blijven, zelfs bij het switchen van winkels.",module,Magento_Backend
 "Cache Type","Cache Soort",module,Magento_Backend
-Description,Beschrijving,module,Magento_Backend
+Description,Omschrijving,module,Magento_Backend
 Tags,tags,module,Magento_Backend
 "<h1 class=""page-heading"">404 Error</h1><p>Page not found.</p>","<h1 class=""page-heading"">404 Error</h1><p>Pagina niet gevonden.</p>",module,Magento_Backend
 "Scheduled Backup Settings","Geplande backup instellingen",module,Magento_Backup
@@ -5938,7 +5938,7 @@ Watermark,Watermerk,module,Magento_Catalog
 "Category Flat Data","Categorieën Flat Data",module,Magento_Catalog
 "Reorganize EAV category structure to flat structure","EAV categoriestructuur naar platte structuur omschrijving",module,Magento_Catalog
 "Indexed category/products association",Categorieën/product-koppeling,module,Magento_Catalog
-"Product Categories",Productcategorie&euml;n,module,Magento_Catalog
+"Product Categories",Productcategorieën,module,Magento_Catalog
 "Indexed product/categories association","Geïndexeerde product/categorieën koppeling",module,Magento_Catalog
 "Product Price",Productprijs,module,Magento_Catalog
 "Index product prices",Productprijzen,module,Magento_Catalog
@@ -6582,7 +6582,7 @@ Action,Actie,module,Magento_Reports
 "Refresh Statistics for the Last Day","Vernieuw Statistieken van vandaag",module,Magento_Reports
 "Are you sure you want to refresh statistics for the last day?","Weet u zeker dat u de statistieken van afgelopen dag wilt vernieuwen?",module,Magento_Reports
 Report,Verslag,module,Magento_Reports
-Description,Beschrijving,module,Magento_Reports
+Description,Omschrijving,module,Magento_Reports
 undefined,"niet van toepassing",module,Magento_Reports
 "Allow Guests to Write Reviews","Reviews door gasten toestaan",module,Magento_Review
 Active,Actief,module,Magento_Review
