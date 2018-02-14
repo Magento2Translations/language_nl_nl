@@ -279,9 +279,6 @@ System,systeem,module,Magento_Backend
 "Admin session lifetime must be less than or equal to 31536000 seconds (one year)","Admin-sessielevensduur moet minder of gelijk aan 31536000 seconden (één jaar) zijn",module,Magento_Backend
 "Admin session lifetime must be greater than or equal to 60 seconds","Admin-sessielevensduur moet groter of gelijk aan 60 seconden zijn",module,Magento_Backend
 Order,Bestelling,module,Magento_Backend
-"Access denied","Toegang geweigerd",module,Magento_Backend
-"Please try to sign out and sign in again.","Probeer uit te loggen en weer aan te melden.",module,Magento_Backend
-"If you continue to receive this message, please contact the store owner.","Krijgt u herhaaldelijk deze melding, neem dan contact op met de winkeleigenaar.",module,Magento_Backend
 "You need more permissions to access this.","U heeft meer bevoegdheden nodig om toegang te krijgen.",module,Magento_Backend
 "Welcome, please sign in",Inloggen,module,Magento_Backend
 Username,Gebruikersnaam,module,Magento_Backend
@@ -506,7 +503,7 @@ Canceled,Geannuleerd,module,Magento_Bundle
 "As low as",Vanaf,module,Magento_Bundle
 "Regular Price","Normale prijs",module,Magento_Bundle
 From,Van,module,Magento_Bundle
-To,Tot,module,Magento_Bundle
+To,Aan,module,Magento_Bundle
 "Buy %1 with %2 discount each","%1 kopen met %2 korting elk",module,Magento_Bundle
 "Go back to product details","Ga terug naar Productgegevens",module,Magento_Bundle
 "Customize and Add to Cart","Aanpassen en aan winkelwagen toevoegen",module,Magento_Bundle
@@ -524,7 +521,7 @@ Quantity,Aantal,module,Magento_Bundle
 From:,Van:,module,Magento_Bundle
 To:,Tot:,module,Magento_Bundle
 Message:,Bericht:,module,Magento_Bundle
-"Product Name","Product Naam",module,Magento_Bundle
+"Product Name",Productnaam,module,Magento_Bundle
 Subtotal,Subtotaal,module,Magento_Bundle
 "Discount Amount",Korting,module,Magento_Bundle
 "Row Total",Rijtotaal,module,Magento_Bundle
@@ -1110,7 +1107,7 @@ Search,Zoek,module,Magento_Catalog
 "Product with SKU %1 is not linked to product with SKU %2","Product met SKU %1 is niet gekoppeld aan product met SKU %2",module,Magento_Catalog
 "Multiple Select","Meervoudige selectie",module,Magento_Catalog
 "%1 doesn't extend \Magento\Framework\Filter\Template","%1 breidt \Magento\Framework\Filter\Template niet uit",module,Magento_Catalog
-"As low as",Slechts,module,Magento_Catalog
+"As low as",Vanaf,module,Magento_Catalog
 "Some exception","Een uitzondering",module,Magento_Catalog
 "Could not get extension attributes","Kan extension attributes niet ophalen",module,Magento_Catalog
 message,bericht,module,Magento_Catalog
@@ -1371,7 +1368,6 @@ Checkout,Afrekenen,module,Magento_Checkout
 Error!,Fout!,module,Magento_Checkout
 "DB exception","DB uitzondering",module,Magento_Checkout
 Message,Bericht,module,Magento_Checkout
-"<a href=""%1"" onclick=""this.target='_blank'"" class=""print"">Print receipt</a>","<a href=""%1"" onclick=""this.target='_blank'"" class=""print"">Bon afdrukken</a>",module,Magento_Checkout
 "Apply Discount Code","Pas kortingscode toe",module,Magento_Checkout
 "Enter discount code","Voer kortingscode in",module,Magento_Checkout
 "Apply Discount","Korting doorvoeren",module,Magento_Checkout
@@ -1757,7 +1753,7 @@ System,systeem,module,Magento_CurrencySymbol
 "Sign Out",Afmelden,module,Magento_Customer
 "Sign In",Inloggen,module,Magento_Customer
 "You are subscribed to our newsletter.","Je bent geabonneerd op onze nieuwsbrief.",module,Magento_Customer
-"You aren't subscribed to our newsletter.","Je ben niet geabonneerd op onze nieuwsbrief.",module,Magento_Customer
+"You aren't subscribed to our newsletter.","Je bent niet geabonneerd op onze nieuwsbrief.",module,Magento_Customer
 "You have not set a default shipping address.","U heeft geen standaard afleveradres ingevoerd.",module,Magento_Customer
 "You have not set a default billing address.","U heeft geen standaard factuuradres ingevoerd.",module,Magento_Customer
 "Address Book",Adresboek,module,Magento_Customer
@@ -3878,7 +3874,7 @@ Numeric,Numeriek,module,Magento_SalesRule
 "Specified rule only allows auto generated coupons","Opgegeven regel staat alleen automatisch gegenereerde coupons toe",module,Magento_SalesRule
 "Specified rule does not allow auto generated coupons","Opgegeven regel staat geen auto gegenereerde coupons toe",module,Magento_SalesRule
 "Error occurred when saving coupon: %1","Er is een fout opgetreden bij het opslaan van de coupon: %1",module,Magento_SalesRule
-"Discount (%1)","Korting (%s)",module,Magento_SalesRule
+"Discount (%1)","Korting (%1)",module,Magento_SalesRule
 Discount,Korting,module,Magento_SalesRule
 "Coupon with the same code","Coupons met de zelfde code",module,Magento_SalesRule
 "No Coupon","Geen kortingscode",module,Magento_SalesRule
@@ -5666,9 +5662,9 @@ Edit,Bewerken,module,Magento_Wishlist
 Back,Terug,module,Magento_Wishlist
 "Wish List is empty now.","Verlanglijst is nu leeg.",module,Magento_Wishlist
 "* Required Fields","* Verplichte velden",module,Magento_Wishlist
-"Sharing Information","Delen Informatie",module,Magento_Wishlist
+"Sharing Information","Informatie delen",module,Magento_Wishlist
 "Email addresses, separated by commas","E-mailadressen, gescheiden door komma’s",module,Magento_Wishlist
-"Check here to link an RSS feed to your Wish List.","Klilk hier als u een RSS feed wil koppelen aan uw Verlanglijst.",module,Magento_Wishlist
+"Check here to link an RSS feed to your Wish List.","Klik hier als u een RSS feed wil koppelen aan uw verlanglijst.",module,Magento_Wishlist
 "Last Added Items","Laatst toegevoegde artikelen",module,Magento_Wishlist
 "Remove This Item","Verwijder dit artikel",module,Magento_Wishlist
 "Go to Wish List","Ga naar verlanglijst",module,Magento_Wishlist
@@ -5902,8 +5898,6 @@ Password:,Wachtwoord:,theme,frontend/Magento/luma
 "Sorry, but something went wrong. Please contact the seller.","Er ging iets mis. Neem contact op met de verkoper.",module,Magento_Authorizenet
 "We could not detect a size.","We kunnen geen grootte detecteren.",module,Magento_Backend
 "We don't recognize or support this file extension type.","We herkennen of ondersteunen dit bestandsformaat type niet.",module,Magento_Backend
-"Warning message",Waarschuwingsbericht,module,Magento_Backend
-"This operation can take a long time","Deze bewerking kan lang duren",module,Magento_Backend
 "This payment is not available","Deze betaling is niet beschikbaar",module,Magento_Braintree
 YY,JJ,module,Magento_Braintree
 "Please try again with another form of payment.","Probeer het opnieuw met een andere vorm van betaling.",module,Magento_Braintree
@@ -6098,7 +6092,7 @@ Close,Sluiten,module,Magento_Ui
 Ok,OK,module,Magento_Ui
 Cancel,Annuleer,module,Magento_Vault
 "Show Toolbar","Werkbalk weergeven",module,Magento_AdminNotification
-"Show List","Toon lijst",module,Magento_AdminNotification
+"Show List","Lijst tonen",module,Magento_AdminNotification
 "Use HTTPS to Get Feed","Gebruik HTTPS om de feed op te halen",module,Magento_AdminNotification
 "Update Frequency",Update-frequentie,module,Magento_AdminNotification
 "Last Update","Laatste wijziging",module,Magento_AdminNotification
@@ -6135,7 +6129,6 @@ Content,inhoud,module,Magento_Backend
 Elements,Elementen,module,Magento_Backend
 Design,Ontwerp,module,Magento_Backend
 Schedule,Tijdsplanning,module,Magento_Backend
-"Content translation","Content vertaling",module,Magento_Backend
 Settings,Instellingen,module,Magento_Backend
 Attributes,Attributen,module,Magento_Backend
 "Other Settings","Andere instellingen",module,Magento_Backend
@@ -6344,7 +6337,6 @@ Amount,Aantal,module,Magento_Braintree
 "Settlement Batch ID","Betalings batch ID",module,Magento_Braintree
 Currency,Valuta,module,Magento_Braintree
 Select...,Selecteer...,module,Magento_Bundle
-"Special Price","Speciale prijs",module,Magento_Bundle
 "Enable CAPTCHA in Admin","CAPTCHA activeren in admin",module,Magento_Captcha
 Font,Lettertype,module,Magento_Captcha
 Forms,Formulieren,module,Magento_Captcha
