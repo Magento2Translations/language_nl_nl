@@ -518,7 +518,7 @@ Canceled,Geannuleerd,module,Magento_Bundle
 "As low as",Vanaf,module,Magento_Bundle
 "Regular Price","Normale prijs",module,Magento_Bundle
 From,Van,module,Magento_Bundle
-To,Tot,module,Magento_Bundle
+To,Aan,module,Magento_Bundle
 "Buy %1 with %2 discount each","%1 kopen met %2 korting elk",module,Magento_Bundle
 "Go back to product details","Ga terug naar Productgegevens",module,Magento_Bundle
 "Customize and Add to Cart","Aanpassen en aan winkelwagen toevoegen",module,Magento_Bundle
@@ -536,7 +536,7 @@ Quantity,Aantal,module,Magento_Bundle
 From:,Van:,module,Magento_Bundle
 To:,Tot:,module,Magento_Bundle
 Message:,Bericht:,module,Magento_Bundle
-"Product Name","Product Naam",module,Magento_Bundle
+"Product Name",Productnaam,module,Magento_Bundle
 Subtotal,Subtotaal,module,Magento_Bundle
 "Discount Amount",Korting,module,Magento_Bundle
 "Row Total",Rijtotaal,module,Magento_Bundle
@@ -1090,7 +1090,7 @@ Search,Zoek,module,Magento_Catalog
 "Product with SKU %1 is not linked to product with SKU %2","Product met SKU %1 is niet gekoppeld aan product met SKU %2",module,Magento_Catalog
 "Multiple Select","Meervoudige selectie",module,Magento_Catalog
 "%1 doesn't extend \Magento\Framework\Filter\Template","%1 breidt \Magento\Framework\Filter\Template niet uit",module,Magento_Catalog
-"As low as",Slechts,module,Magento_Catalog
+"As low as",Vanaf,module,Magento_Catalog
 message,bericht,module,Magento_Catalog
 Images,Afbeeldingen,module,Magento_Catalog
 Select...,Selecteer...,module,Magento_Catalog
@@ -3795,7 +3795,7 @@ Numeric,Numeriek,module,Magento_SalesRule
 "Specified rule only allows auto generated coupons","Opgegeven regel staat alleen automatisch gegenereerde coupons toe",module,Magento_SalesRule
 "Specified rule does not allow auto generated coupons","Opgegeven regel staat geen auto gegenereerde coupons toe",module,Magento_SalesRule
 "Error occurred when saving coupon: %1","Er is een fout opgetreden bij het opslaan van de coupon: %1",module,Magento_SalesRule
-"Discount (%1)","Korting (%s)",module,Magento_SalesRule
+"Discount (%1)","Korting (%1)",module,Magento_SalesRule
 Discount,Korting,module,Magento_SalesRule
 "Coupon with the same code","Coupons met de zelfde code",module,Magento_SalesRule
 "No Coupon","Geen kortingscode",module,Magento_SalesRule
@@ -5550,9 +5550,9 @@ Edit,Bewerken,module,Magento_Wishlist
 Back,Terug,module,Magento_Wishlist
 "Wish List is empty now.","Verlanglijst is nu leeg.",module,Magento_Wishlist
 "* Required Fields","* Verplichte velden",module,Magento_Wishlist
-"Sharing Information","Delen Informatie",module,Magento_Wishlist
+"Sharing Information","Informatie delen",module,Magento_Wishlist
 "Email addresses, separated by commas","E-mailadressen, gescheiden door komma’s",module,Magento_Wishlist
-"Check here to link an RSS feed to your Wish List.","Klilk hier als u een RSS feed wil koppelen aan uw Verlanglijst.",module,Magento_Wishlist
+"Check here to link an RSS feed to your Wish List.","Klik hier als u een RSS feed wil koppelen aan uw verlanglijst.",module,Magento_Wishlist
 "Last Added Items","Laatst toegevoegde artikelen",module,Magento_Wishlist
 "Remove This Item","Verwijder dit artikel",module,Magento_Wishlist
 "Go to Wish List","Ga naar verlanglijst",module,Magento_Wishlist
@@ -5979,7 +5979,7 @@ Close,Sluiten,module,Magento_Ui
 Ok,OK,module,Magento_Ui
 Cancel,Annuleer,module,Magento_Vault
 "Show Toolbar","Werkbalk weergeven",module,Magento_AdminNotification
-"Show List","Toon lijst",module,Magento_AdminNotification
+"Show List","Lijst tonen",module,Magento_AdminNotification
 "Use HTTPS to Get Feed","Gebruik HTTPS om de feed op te halen",module,Magento_AdminNotification
 "Update Frequency",Update-frequentie,module,Magento_AdminNotification
 "Last Update","Laatste wijziging",module,Magento_AdminNotification
