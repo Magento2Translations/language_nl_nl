@@ -1559,6 +1559,7 @@ Store,Winkel,module,Magento_Config
 "Yes (301 Moved Permanently)","Ja (301 Permanent verplaatst)",module,Magento_Config
 Yes,Ja,module,Magento_Config
 Specified,Gespecificeerd,module,Magento_Config
+"Visible section not found.","Zichtbare sectie niet gevonden.",module,Magento_Config
 "Config form fieldset clone model required to be able to clone fields","Configuratie form fieldset clone model verplicht om velden te kunnen kopieren.",module,Magento_Config
 "%1: Instance of %2 is expected, got %3 instead","%1: Instance van %2 is verwacht, kreeg %3",module,Magento_Config
 "Invalid XML in file %1:\n%2","Ongeldige XML in bestand %1:\n%2",module,Magento_Config
@@ -1567,6 +1568,7 @@ Specified,Gespecificeerd,module,Magento_Config
 "Filesystem is not writable.","Bestandssysteem is niet beschrijfbaar.",module,Magento_Config
 "Some error","Een zekere fout",module,Magento_Config
 "Some message","Een zeker bericht",module,Magento_Config
+"You cannot run this command because the Magento application is not installed.","U kunt dit commando niet uitvoeren, want de Magento-applicatie is niet geïnstalleerd.",module,Magento_Config
 "This command is unavailable right now.","Het commando is op dit moment niet beschikbaar.",module,Magento_Config
 "The ""test/test/test"" path does not exists","Het ""test/test/test""-pad bestaat niet",module,Magento_Config
 "error message",foutbericht,module,Magento_Config
@@ -2123,12 +2125,14 @@ Name,Naam,module,Magento_Customer
 "Cannot switch into given mode ""%1""","Onmogelijk om naar volgende mode ""%1"" over te schakelen",module,Magento_Deploy
 "Wrong logger interface specified.","Verkeerde logger-interface opgegeven.",module,Magento_Deploy
 "Hash has not been saved.","Hash is niet opgeslagen.",module,Magento_Deploy
+"Parameter ""importer_class"" must be present.","Parameter ""importer_class"" moet zijn meegegeven.",module,Magento_Deploy
 "The configuration file has changed. Run app:config:import or setup:upgrade command to synchronize configuration.","Het configuratie-bestand is gewijzigd. Draai app:config:import of het setup:upgrade commando om de configuratie te synchroniseren.",module,Magento_Deploy
 "Wrong type specified: '%1'","Verkeerd type gespecificeerd: '%1'",module,Magento_Deploy
 "Wrong queue type specified.","Verkeerd queue-soort gespecificeerd.",module,Magento_Deploy
 "Wrong deploy strategy type: %1","Verkeerde deploy-strategie: %1",module,Magento_Deploy
 "Some error","Een zekere fout",module,Magento_Deploy
 "some message","één of ander bericht",module,Magento_Deploy
+Exception,Uitzondering,module,Magento_Deploy
 "Format for IDE '%1' is not supported","Opmaak voor IDE '%1' wordt niet ondersteund",module,Magento_Developer
 "Client side compilation doesn't work in production mode","Client side compilatie werkt niet in productie modus",module,Magento_Developer
 "Client side less compilation","Client less compilatie",module,Magento_Developer
@@ -2154,6 +2158,8 @@ Regular,Normaal,module,Magento_Dhl
 "Error #%1 : %2","Fout #%1: %2",module,Magento_Dhl
 "Unable to retrieve shipping label","Onmogelijk om verzendlabel op te halen",module,Magento_Dhl
 None,Geen,module,Magento_Dhl
+"Security validation of XML document has been failed.","Beveiligingsvalidatie van XML-document is niet geslaagd.",module,Magento_Dhl
+"The response is in the wrong format","De reactie in het verkeerde formaat",module,Magento_Dhl
 State/Province,Provincie,module,Magento_Directory
 "--Please Select--","-- Selecteer --",module,Magento_Directory
 kgs,kg.,module,Magento_Directory
@@ -6429,6 +6435,7 @@ Apply,Toepassen,module,Magento_CatalogRule
 "Discard subsequent rules","Volgende regels negeren",module,Magento_CatalogRule
 Yes,Ja,module,Magento_CatalogRule
 No,Nee,module,Magento_CatalogRule
+"Catalog Section","Catalogus sectie",module,Magento_CatalogSearch
 "Catalog Search","Catalogus doorzoeken",module,Magento_CatalogSearch
 "Popular Search Terms","Populaire zoekwoorden",module,Magento_CatalogSearch
 "Minimal Query Length","Minimale lengte zoekopdracht",module,Magento_CatalogSearch
@@ -6819,6 +6826,8 @@ Currency,Valuta,module,Magento_CurrencySymbol
 "Online Customers Options","Opties Online klanten",module,Magento_Customer
 "Online Minutes Interval","Online minuteninterval",module,Magento_Customer
 "Leave empty for default (15 minutes).","Laat leeg voor standaard (15 minuten).",module,Magento_Customer
+"Customer Data Lifetime","Klant-data levensduur",module,Magento_Customer
+"Please specify value in minutes.","Geef een waarde op in minuten.",module,Magento_Customer
 "Customer Notification",Klantnotificatie,module,Magento_Customer
 "Assign a Customer Group","Klantgroep toewijzen",module,Magento_Customer
 "Are you sure to assign selected customers to new group?","Ben u zeker dat u de geselecteerde klanten wil toevoegen aan een nieuwe groep?",module,Magento_Customer
