@@ -1754,7 +1754,7 @@ System,systeem,module,Magento_CurrencySymbol
 "Sign In",Inloggen,module,Magento_Customer
 "You are subscribed to our newsletter.","Je bent geabonneerd op onze nieuwsbrief.",module,Magento_Customer
 "You aren't subscribed to our newsletter.","Je bent niet geabonneerd op onze nieuwsbrief.",module,Magento_Customer
-"You have not set a default shipping address.","U heeft geen standaard afleveradres ingevoerd.",module,Magento_Customer
+"You have not set a default shipping address.","Je hebt geen standaard afleveradres ingevoerd.",module,Magento_Customer
 "You have not set a default billing address.","U heeft geen standaard factuuradres ingevoerd.",module,Magento_Customer
 "Address Book",Adresboek,module,Magento_Customer
 "Edit Address","Bewerk adres",module,Magento_Customer
@@ -5471,7 +5471,7 @@ Other,Andere,module,Magento_Usps
 None,Geen,module,Magento_Usps
 "Custom Variables","Aangepaste Variabelen",module,Magento_Variable
 "Add New Variable","Voeg nieuwe variabele toe",module,Magento_Variable
-"Save and Continue Edit",Toepassen,module,Magento_Variable
+"Save and Continue Edit","Opslaan en Doorgaan",module,Magento_Variable
 "Custom Variable ""%1""","Aangepaste variabele ""%1""",module,Magento_Variable
 "New Custom Variable","Nieuwe aangepaste variabele",module,Magento_Variable
 Variable,Variabel,module,Magento_Variable
