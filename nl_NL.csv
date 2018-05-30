@@ -270,7 +270,7 @@ System,systeem,module,Magento_Backend
 "Authentication error occurred.","Authenticatie fout.",module,Magento_Backend
 Order,Bestelling,module,Magento_Backend
 "Access denied","Toegang geweigerd",module,Magento_Backend
-"Please try to sign out and sign in again.","Probeer uit te loggen en weer aan te melden.",module,Magento_Backend
+"Please try to sign out and sign in again.","Probeer uit te loggen en weer in te loggen.",module,Magento_Backend
 "If you continue to receive this message, please contact the store owner.","Krijgt u herhaaldelijk deze melding, neem dan contact op met de winkeleigenaar.",module,Magento_Backend
 "You need more permissions to access this.","U heeft meer bevoegdheden nodig om toegang te krijgen.",module,Magento_Backend
 "Welcome, please sign in",Inloggen,module,Magento_Backend
@@ -478,7 +478,7 @@ Submit,Bevestig,module,Magento_Braintree
 "Card Number",Kaartnummer,module,Magento_Braintree
 "Is Default","Is standaard",module,Magento_Braintree
 Actions,acties,module,Magento_Braintree
-Yes,ja,module,Magento_Braintree
+Yes,Ja,module,Magento_Braintree
 No,Nee,module,Magento_Braintree
 Edit,Bewerken,module,Magento_Braintree
 "Percent Discount",Kortingspercentage,module,Magento_Bundle
@@ -1694,7 +1694,7 @@ System,systeem,module,Magento_CurrencySymbol
 "Sign In",Inloggen,module,Magento_Customer
 "You subscribe to our newsletter.","U abonneert zich op onze nieuwsbrief.",module,Magento_Customer
 "You don't subscribe to our newsletter.","U heeft zich niet op onze nieuwsbrief geabonneerd.",module,Magento_Customer
-"You have not set a default shipping address.","U heeft geen standaard afleveradres ingevoerd.",module,Magento_Customer
+"You have not set a default shipping address.","Je hebt geen standaard afleveradres ingevoerd.",module,Magento_Customer
 "You have not set a default billing address.","U heeft geen standaard factuuradres ingevoerd.",module,Magento_Customer
 "Address Book",Adresboek,module,Magento_Customer
 "Edit Address","Bewerk adres",module,Magento_Customer
@@ -2434,7 +2434,7 @@ Cancel,Annuleer,module,Magento_GiftMessage
 "Gift Options","Kado opties",module,Magento_GiftMessage
 "Gift Message",Cadeau-bericht,module,Magento_GiftMessage
 "Do you have any gift items in your order?","Zitten er kado's bij uw bestelling?",module,Magento_GiftMessage
-"Add gift options","Voeg cadeau-optie toe",module,Magento_GiftMessage
+"Add gift options","Voeg cadeau-opties toe",module,Magento_GiftMessage
 "Gift Options for the Entire Order","Cadeau-opties voor gehele bestelling",module,Magento_GiftMessage
 "Leave this box blank if you don't want to leave a gift message for the entire order.","Laat dit vak leeg wanneer u geen cadeau boodschap wilt achterlaten voor de volledige bestelling.",module,Magento_GiftMessage
 "Gift Options for Individual Items","Cadeau-opties voor individuele items",module,Magento_GiftMessage
@@ -4589,12 +4589,11 @@ Error:,Fout:,module,Magento_Shipping
 "contact us","neem contact op",module,Magento_Shipping
 Info:,Informatie:,module,Magento_Shipping
 Track:,Tracking:,module,Magento_Shipping
-Status:,Status,module,Magento_Shipping
 "Delivered on:","Afgeleverd op:",module,Magento_Shipping
-"Signed by:","Getekend door",module,Magento_Shipping
+"Signed by:","Getekend door:",module,Magento_Shipping
 "Delivered to:","Afgeleverd aan:",module,Magento_Shipping
 "Shipped or billed on:","Verzonden of betaald op:",module,Magento_Shipping
-"Service Type:",Servicetype,module,Magento_Shipping
+"Service Type:",Servicetype:,module,Magento_Shipping
 Weight:,Gewicht:,module,Magento_Shipping
 N/A,n.v.t.,module,Magento_Shipping
 "Track history","Geschiedenis bijhouden",module,Magento_Shipping
@@ -5208,7 +5207,7 @@ Other,Andere,module,Magento_Usps
 None,Geen,module,Magento_Usps
 "Custom Variables","Aangepaste Variabelen",module,Magento_Variable
 "Add New Variable","Voeg nieuwe variabele toe",module,Magento_Variable
-"Save and Continue Edit",Toepassen,module,Magento_Variable
+"Save and Continue Edit","Opslaan en Doorgaan",module,Magento_Variable
 "Custom Variable ""%1""","Aangepaste variabele ""%1""",module,Magento_Variable
 "New Custom Variable","Nieuwe aangepaste variabele",module,Magento_Variable
 Variable,Variabel,module,Magento_Variable
@@ -6236,7 +6235,7 @@ Emails,E-mails,module,Magento_Email
 "Allowed file types: jpg, jpeg, gif, png. To optimize logo for high-resolution displays, upload an image that is 3x normal size and then specify 1x dimensions in width/height fields below.","Toegestane bestand types: jpg, jpeg, gif, png. Om een logo te optimalizeren voor hoge resolutie schermen, upload een afbeelding die 3x zo groot is en specifieer vervolgens 1x de dimensies in de breedte/hoogte velden.",module,Magento_Email
 "Logo Image Alt","Alt-tekst logo",module,Magento_Email
 "Logo Width","Logo breedte",module,Magento_Email
-"Only necessary if image has been uploaded above. Enter number of pixels, without appending ""px"".","Enkel verplicht als u hierboven een afbeelding heeft geüpload. Geeft het aantal pixels in, zonder ""px"" toe te voegen.",module,Magento_Email
+"Only necessary if image has been uploaded above. Enter number of pixels, without appending ""px"".","Enkel verplicht als u hierboven een afbeelding heeft geüpload. Voer het aantal pixels in, zonder ""px"" toe te voegen.",module,Magento_Email
 "Logo Height","Logo hoogte",module,Magento_Email
 "Header Template","Koptekst sjabloon",module,Magento_Email
 "Email template chosen based on theme fallback when ""Default"" option is selected.","E-mail sjabloon dat gekozen wordt op basis van thema fallback als de optie ""Standaard"" is geselecteerd.",module,Magento_Email
@@ -6814,7 +6813,7 @@ Empty,Leeg,module,Magento_Theme
 "Default Title",Standaardtitel,module,Magento_Theme
 "Title Prefix","Titel-prefix (voor de naam)",module,Magento_Theme
 "Title Suffix","Titel achtervoegsel",module,Magento_Theme
-"Default Description",Standaard-omschrijving,module,Magento_Theme
+"Default Description","Standaard omschrijving",module,Magento_Theme
 "Default Keywords",Standaard-keywords,module,Magento_Theme
 "Miscellaneous Scripts","Diverse scripts",module,Magento_Theme
 "This will be included before head closing tag in page HTML.","Dit script wordt geplaatst aan het begin van de HTML pagina, voor het einde van HEAD.",module,Magento_Theme
