@@ -276,7 +276,7 @@ System,systeem,module,Magento_Backend
 "Admin session lifetime must be greater than or equal to 60 seconds","Admin-sessielevensduur moet groter of gelijk aan 60 seconden zijn",module,Magento_Backend
 Order,Bestelling,module,Magento_Backend
 "Access denied","Toegang geweigerd",module,Magento_Backend
-"Please try to sign out and sign in again.","Probeer uit te loggen en weer aan te melden.",module,Magento_Backend
+"Please try to sign out and sign in again.","Probeer uit te loggen en weer in te loggen.",module,Magento_Backend
 "If you continue to receive this message, please contact the store owner.","Krijgt u herhaaldelijk deze melding, neem dan contact op met de winkeleigenaar.",module,Magento_Backend
 "You need more permissions to access this.","U heeft meer bevoegdheden nodig om toegang te krijgen.",module,Magento_Backend
 "Welcome, please sign in",Inloggen,module,Magento_Backend
@@ -1707,7 +1707,7 @@ System,systeem,module,Magento_CurrencySymbol
 "Sign In",Inloggen,module,Magento_Customer
 "You subscribe to our newsletter.","U abonneert zich op onze nieuwsbrief.",module,Magento_Customer
 "You don't subscribe to our newsletter.","U heeft zich niet op onze nieuwsbrief geabonneerd.",module,Magento_Customer
-"You have not set a default shipping address.","U heeft geen standaard afleveradres ingevoerd.",module,Magento_Customer
+"You have not set a default shipping address.","Je hebt geen standaard afleveradres ingevoerd.",module,Magento_Customer
 "You have not set a default billing address.","U heeft geen standaard factuuradres ingevoerd.",module,Magento_Customer
 "Address Book",Adresboek,module,Magento_Customer
 "Edit Address","Bewerk adres",module,Magento_Customer
@@ -2490,7 +2490,7 @@ Cancel,Annuleer,module,Magento_GiftMessage
 "Gift Options","Kado opties",module,Magento_GiftMessage
 "Gift Message",Cadeau-bericht,module,Magento_GiftMessage
 "Do you have any gift items in your order?","Zitten er kado's bij uw bestelling?",module,Magento_GiftMessage
-"Add gift options","Voeg cadeau-optie toe",module,Magento_GiftMessage
+"Add gift options","Voeg cadeau-opties toe",module,Magento_GiftMessage
 "Gift Options for the Entire Order","Cadeau-opties voor gehele bestelling",module,Magento_GiftMessage
 "Leave this box blank if you don't want to leave a gift message for the entire order.","Laat dit vak leeg wanneer u geen cadeau boodschap wilt achterlaten voor de volledige bestelling.",module,Magento_GiftMessage
 "Gift Options for Individual Items","Cadeau-opties voor individuele items",module,Magento_GiftMessage
@@ -5389,7 +5389,7 @@ Other,Andere,module,Magento_Usps
 None,Geen,module,Magento_Usps
 "Custom Variables","Aangepaste Variabelen",module,Magento_Variable
 "Add New Variable","Voeg nieuwe variabele toe",module,Magento_Variable
-"Save and Continue Edit",Toepassen,module,Magento_Variable
+"Save and Continue Edit","Opslaan en Doorgaan",module,Magento_Variable
 "Custom Variable ""%1""","Aangepaste variabele ""%1""",module,Magento_Variable
 "New Custom Variable","Nieuwe aangepaste variabele",module,Magento_Variable
 Variable,Variabel,module,Magento_Variable
@@ -7456,7 +7456,7 @@ Configuration,Configuratie,module,Magento_Theme
 "Edit custom instruction of robots.txt File","Aangepaste instructie van robots.txt bestand bewerken",module,Magento_Theme
 "Reset to Defaults","Terugzetten op standaardwaarden",module,Magento_Theme
 "This action will delete your custom instructions and reset robots.txt file to system's default settings.","Deze actie zal uw aangepaste instructies verwijderen en het robots.txt-bestand resetten naar de standaardinstellingen van het systeem.",module,Magento_Theme
-"Default Description",Standaard-omschrijving,module,Magento_Theme
+"Default Description","Standaard omschrijving",module,Magento_Theme
 "Default welcome msg!",Standaard-welkomstbericht,module,Magento_Theme
 "Copyright © 2017 Magento, Inc. All rights reserved.","Copyright © 2017 Magento, Inc. Alle rechten voorbehouden.",module,Magento_Theme
 "Design Config Grid",Ontwerpconfiguratietabel,module,Magento_Theme
