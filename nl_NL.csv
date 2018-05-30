@@ -280,7 +280,7 @@ System,systeem,module,Magento_Backend
 "Admin session lifetime must be greater than or equal to 60 seconds","Admin-sessielevensduur moet groter of gelijk aan 60 seconden zijn",module,Magento_Backend
 Order,Bestelling,module,Magento_Backend
 "Access denied","Toegang geweigerd",module,Magento_Backend
-"Please try to sign out and sign in again.","Probeer uit te loggen en weer aan te melden.",module,Magento_Backend
+"Please try to sign out and sign in again.","Probeer uit te loggen en weer in te loggen.",module,Magento_Backend
 "If you continue to receive this message, please contact the store owner.","Krijgt u herhaaldelijk deze melding, neem dan contact op met de winkeleigenaar.",module,Magento_Backend
 "You need more permissions to access this.","U heeft meer bevoegdheden nodig om toegang te krijgen.",module,Magento_Backend
 "Welcome, please sign in",Inloggen,module,Magento_Backend
@@ -1760,7 +1760,7 @@ System,systeem,module,Magento_CurrencySymbol
 "Sign In",Inloggen,module,Magento_Customer
 "You are subscribed to our newsletter.","Je bent geabonneerd op onze nieuwsbrief.",module,Magento_Customer
 "You aren't subscribed to our newsletter.","Je bent niet geabonneerd op onze nieuwsbrief.",module,Magento_Customer
-"You have not set a default shipping address.","U heeft geen standaard afleveradres ingevoerd.",module,Magento_Customer
+"You have not set a default shipping address.","Je hebt geen standaard afleveradres ingevoerd.",module,Magento_Customer
 "You have not set a default billing address.","U heeft geen standaard factuuradres ingevoerd.",module,Magento_Customer
 "Address Book",Adresboek,module,Magento_Customer
 "Edit Address","Bewerk adres",module,Magento_Customer
@@ -5502,7 +5502,7 @@ Other,Andere,module,Magento_Usps
 None,Geen,module,Magento_Usps
 "Custom Variables","Aangepaste Variabelen",module,Magento_Variable
 "Add New Variable","Voeg nieuwe variabele toe",module,Magento_Variable
-"Save and Continue Edit",Toepassen,module,Magento_Variable
+"Save and Continue Edit","Opslaan en Doorgaan",module,Magento_Variable
 "Custom Variable ""%1""","Aangepaste variabele ""%1""",module,Magento_Variable
 "New Custom Variable","Nieuwe aangepaste variabele",module,Magento_Variable
 Variable,Variabel,module,Magento_Variable
