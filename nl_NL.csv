@@ -2093,6 +2093,7 @@ Save,Opslaan,module,Magento_Customer
 "If you have an account, sign in with your email address.","Als u een account hebt, meld u dan aan met uw e-mailadres.",module,Magento_Customer
 Password,Wachtwoord,module,Magento_Customer
 "Forgot Your Password?","Wachtwoord vergeten?",module,Magento_Customer
+"Forgot Your Password","Wachtwoord vergeten",module,Magento_Customer
 "Subscription option",Abonnementoptie,module,Magento_Customer
 "General Subscription","Algemene inschrijving",module,Magento_Customer
 "Sign Up for Newsletter","Aanmelden voor de nieuwsbrief",module,Magento_Customer
@@ -5374,6 +5375,7 @@ username,gebruikersnaam,module,Magento_User
 "Retrieve Password","Wachtwoord opvragen",module,Magento_User
 "Back to Sign in","Terug naar inloggen",module,Magento_User
 "Forgot your password?","Wachtwoord vergeten?",module,Magento_User
+"Forgot your password","Wachtwoord vergeten",module,Magento_User
 "Reset a Password","Wachtwoord opnieuw instellen",module,Magento_User
 "Confirm New Password","Bevestig nieuw wachtwoord",module,Magento_User
 "Reset Password","Wachtwoord resetten",module,Magento_User
