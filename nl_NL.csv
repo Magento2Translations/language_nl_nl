@@ -189,7 +189,7 @@ Stores,Winkels,module,Magento_Backend
 "Add New Image","Nieuwe afbeelding toevoegen",module,Magento_Backend
 "Export block for grid %1 is not defined","Export blok voor tabel %1 niet is gedefinieerd",module,Magento_Backend
 "Reset Filter","Reset filter",module,Magento_Backend
-Search,Zoek,module,Magento_Backend
+Search,Zoeken,module,Magento_Backend
 Any,Elke,module,Magento_Backend
 "All Countries","Alle landen",module,Magento_Backend
 From,Van,module,Magento_Backend
@@ -710,7 +710,7 @@ Category,Categorie,module,Magento_CatalogSearch
 "%1 and above","%1 en hoger",module,Magento_CatalogSearch
 "Bucket do not exists","Winkelwagen bestaat niet",module,Magento_CatalogSearch
 "Search Settings",Zoekinstellingen,module,Magento_CatalogSearch
-Search,Zoek,module,Magento_CatalogSearch
+Search,Zoeken,module,Magento_CatalogSearch
 "Advanced Search","Geavanceerd zoeken",module,Magento_CatalogSearch
 "<strong>%1 item</strong> were found using the following search criteria","<strong>%1 artikel(en)</strong> gevonden met de volgende zoekopdracht",module,Magento_CatalogSearch
 "<strong>%1 items</strong> were found using the following search criteria","<strong>%1 product(en)</strong> gevonden met de volgende zoekopdracht",module,Magento_CatalogSearch
@@ -1088,7 +1088,7 @@ Disabled,Uitgeschakeld,module,Magento_Catalog
 "%1 doesn't extends \Magento\Catalog\Model\Product\Type\AbstractType","%1 breidt \Magento\Catalog\Model\Product\Type\AbstractType niet uit",module,Magento_Catalog
 "%1 doesn't extends \Magento\Catalog\Model\Product\Type\Price","%1 breidt \Magento\Catalog\Model\Product\Type\Price niet uit",module,Magento_Catalog
 "Not Visible Individually","Niet individueel zichtbaar",module,Magento_Catalog
-Search,Zoek,module,Magento_Catalog
+Search,Zoeken,module,Magento_Catalog
 "Catalog, Search","Catalogus, zoeken",module,Magento_Catalog
 "Something went wrong while removing products from the websites.","Er ging iets fout tijdens het verwijderen van producten van de websites.",module,Magento_Catalog
 "Something went wrong while adding products to websites.","Er ging iets fout tijdens het toevoegen van producten aan websites.",module,Magento_Catalog
@@ -1297,7 +1297,7 @@ State/Province,Staat/provincie,module,Magento_Checkout
 "We can't update the item right now.","Het product kon niet worden bijgewerkt.",module,Magento_Checkout
 "We can't update the shopping cart.","We kunnen uw winkelwagen niet bijwerken.",module,Magento_Checkout
 "One-page checkout is turned off.","One-page checkout is uitgeschakeld.",module,Magento_Checkout
-"Guest checkout is disabled.","Gast kassa is uitgeschakeld.",module,Magento_Checkout
+"Guest checkout is disabled.","Gast bestellingen zijn uitgeschakeld.",module,Magento_Checkout
 Checkout,Afrekenen,module,Magento_Checkout
 "Page not found.","Pagina niet gevonden.",module,Magento_Checkout
 "Please agree to all the terms and conditions before placing the order.","Accepteer onze Algemene Voorwaarden voordat u de bestelling plaatst.",module,Magento_Checkout
@@ -1307,7 +1307,7 @@ Checkout,Afrekenen,module,Magento_Checkout
 "The product does not exist.","Het artikel bestaat niet.",module,Magento_Checkout
 "Quantity was recalculated from %1 to %2","Aantal is opnieuw berekend van %1 tot %2",module,Magento_Checkout
 "We adjusted product quantities to fit the required increments.","We hebben de producthoeveelheden aangepast om aan de vereiste hoeveelheden te voldoen.",module,Magento_Checkout
-"This quote item does not exist.","Dit offerteproduct bestaat niet.",module,Magento_Checkout
+"This quote item does not exist.","Dit quote item bestaat niet.",module,Magento_Checkout
 "Display number of items in cart","Aantal producten in winkelwagen tonen",module,Magento_Checkout
 "Display item quantities","Productaantallen tonen",module,Magento_Checkout
 "Shipping address is not set","Verzendadres is niet ingesteld",module,Magento_Checkout
@@ -1323,7 +1323,7 @@ Checkout,Afrekenen,module,Magento_Checkout
 "There are more than one shipping addresses.","Er zijn meerdere verzendadressen.",module,Magento_Checkout
 "Sorry, guest checkout is not available.","Afrekenen zonder account is niet mogelijk.",module,Magento_Checkout
 "You must confirm your account. Please check your email for the confirmation link or <a href=""%1"">click here</a> for a new link.","U moet uw account bevestigen. Controleer uw email voor de bevestigingslink of <a href=""%1""> Klik hier</a> voor een nieuwe link.",module,Magento_Checkout
-"Load customer quote error","Fout bij laden van klant-offerte",module,Magento_Checkout
+"Load customer quote error","Fout bij laden van klant-quote",module,Magento_Checkout
 "Error message!",Foutmelding!,module,Magento_Checkout
 Error!,Fout!,module,Magento_Checkout
 "Wrong minimum amount.","Verkeerd minimumbedrag.",module,Magento_Checkout
@@ -1809,7 +1809,7 @@ Download,Downloads,module,Magento_Customer
 "Please correct the email address.","Corrigeer het e-mailadres.",module,Magento_Customer
 "We're unable to send the password reset email.","We kunnen de wachtwoordherstel e-mail niet verzenden.",module,Magento_Customer
 "Please enter your email.","Voer uw e-mailadres in.",module,Magento_Customer
-"If there is an account associated with %1 you will receive an email with a link to reset your password.","Als er een account is gekoppeld aan %1, ontvangt u een e-mail met een link om uw wachtwoord opnieuw instellen.",module,Magento_Customer
+"If there is an account associated with %1 you will receive an email with a link to reset your password.","Als er een account is gekoppeld aan %1, ontvangt u een e-mail met een link om uw wachtwoord opnieuw in te stellen.",module,Magento_Customer
 "My Account",Account,module,Magento_Customer
 "This account is not confirmed. <a href=""%1"">Click here</a> to resend confirmation email.","Deze account is niet bevestigd. <a href=""%1"">Klik hier</a> om de bevestigingsmail opnieuw te verzenden.",module,Magento_Customer
 "Invalid login or password.","Ongeldige gebruikersnaam en/of wachtwoord.",module,Magento_Customer
@@ -3289,7 +3289,7 @@ Duration:,Duur:,module,Magento_ProductVideo
 "Shipping address is not set","Verzendadres is niet ingesteld",module,Magento_Quote
 "The requested Payment Method is not available.","De gevraagde betaalmethode is niet beschikbaar",module,Magento_Quote
 "We found an invalid request for adding product to quote.","We vonden een ongeldige aanvraag om het product toe te voegen aan de Quote.",module,Magento_Quote
-"This is the wrong quote item id to update configuration.","Dit is het verkeerde quote item id om de configuratie bij te werken.",module,Magento_Quote
+"This is the wrong quote item id to update configuration.","Dit is het verkeerd quote item id om de configuratie bij te werken.",module,Magento_Quote
 "This shipping method is not available. To use this shipping method, please contact us.","Deze verzendmethode is niet beschikbaar. Als u wilt deze verzendmethode gebruiken, neem contact met ons op.",module,Magento_Quote
 "The address model is not defined.","De adres-model is niet gedefinieerd.",module,Magento_Quote
 "The address total model should be extended from
@@ -3944,7 +3944,7 @@ No,Nee,module,Magento_Sales
 "New Order RSS","Nieuwe bestellingen RSS",module,Magento_Sales
 Subtotal,Subtotaal,module,Magento_Sales
 "Shipping & Handling","Aflevering en verwerking",module,Magento_Sales
-"Discount (%1)","Korting (%s)",module,Magento_Sales
+"Discount (%1)","Korting (%1)",module,Magento_Sales
 Discount,Korting,module,Magento_Sales
 "Grand Total",Eindtotaal,module,Magento_Sales
 Back,Terug,module,Magento_Sales
