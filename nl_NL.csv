@@ -161,7 +161,7 @@ Stores,Winkels,module,Magento_Backend
 "Are you sure you want to do this?","Weet u zeker dat u dit wilt doen?",module,Magento_Backend
 "Add New Image","Nieuwe afbeelding toevoegen",module,Magento_Backend
 "Reset Filter","Reset filter",module,Magento_Backend
-Search,Zoek,module,Magento_Backend
+Search,Zoeken,module,Magento_Backend
 Any,Elke,module,Magento_Backend
 "All Countries","Alle landen",module,Magento_Backend
 From,Van,module,Magento_Backend
@@ -518,7 +518,7 @@ Relevance,Relevantie,module,Magento_CatalogSearch
 "%1 and greater","%1 en groter",module,Magento_CatalogSearch
 "up to %1","tot %1",module,Magento_CatalogSearch
 "Search Settings",Zoekinstellingen,module,Magento_CatalogSearch
-Search,Zoek,module,Magento_CatalogSearch
+Search,Zoeken,module,Magento_CatalogSearch
 "Advanced Search","Geavanceerd zoeken",module,Magento_CatalogSearch
 "<strong>%1 item</strong> were found using the following search criteria","<strong>%1 artikel(en)</strong> gevonden met de volgende zoekopdracht",module,Magento_CatalogSearch
 "<strong>%1 items</strong> were found using the following search criteria","<strong>%1 product(en)</strong> gevonden met de volgende zoekopdracht",module,Magento_CatalogSearch
@@ -786,7 +786,7 @@ Disabled,Uitgeschakeld,module,Magento_Catalog
 "The product has required options.","Het product heeft verplichte opties.",module,Magento_Catalog
 "Something went wrong while processing the request.","Er ging iets fout tijdens het verwerken van het verzoek.",module,Magento_Catalog
 "Not Visible Individually","Niet individueel zichtbaar",module,Magento_Catalog
-Search,Zoek,module,Magento_Catalog
+Search,Zoeken,module,Magento_Catalog
 "Catalog, Search","Catalogus, zoeken",module,Magento_Catalog
 "A product type is not defined for the indexer.","Een producttype is niet opgegeven",module,Magento_Catalog
 "Multiple Select","Meervoudige selectie",module,Magento_Catalog
@@ -933,13 +933,13 @@ Checkout,Afrekenen,module,Magento_Checkout
 "We don't have some of the products you want.","We hebben niet alle producten die u wenst.",module,Magento_Checkout
 "We don't have as many of some products as you want.","We hebben het gevraagde aantal producten niet op voorraad.",module,Magento_Checkout
 "Quantity was recalculated from %1 to %2","Aantal is opnieuw berekend van %1 tot %2",module,Magento_Checkout
-"This quote item does not exist.","Dit offerteproduct bestaat niet.",module,Magento_Checkout
+"This quote item does not exist.","Dit quote item bestaat niet.",module,Magento_Checkout
 "Display number of items in cart","Aantal producten in winkelwagen tonen",module,Magento_Checkout
 "Display item quantities","Productaantallen tonen",module,Magento_Checkout
 "Invalid data","Ongeldige data",module,Magento_Checkout
 "The customer address is not valid.","Het adres van de klant is niet geldig.",module,Magento_Checkout
 "Invalid shipping method","Ongeldige verzendmethode",module,Magento_Checkout
-"Load customer quote error","Fout bij laden van klant-offerte",module,Magento_Checkout
+"Load customer quote error","Fout bij laden van klant-quote",module,Magento_Checkout
 "Cancel Coupon","Kortingscode annuleren",module,Magento_Checkout
 "Shopping Cart Items","Producten in winkelwagen",module,Magento_Checkout
 Item,Product,module,Magento_Checkout
@@ -1182,7 +1182,7 @@ Download,Downloads,module,Magento_Customer
 "Invalid input","Ongeldige invoer",module,Magento_Customer
 "Please correct the email address.","Corrigeer het e-mailadres.",module,Magento_Customer
 "Please enter your email.","Voer uw e-mailadres in.",module,Magento_Customer
-"If there is an account associated with %1 you will receive an email with a link to reset your password.","Als er een account is gekoppeld aan %1, ontvangt u een e-mail met een link om uw wachtwoord opnieuw instellen.",module,Magento_Customer
+"If there is an account associated with %1 you will receive an email with a link to reset your password.","Als er een account is gekoppeld aan %1, ontvangt u een e-mail met een link om uw wachtwoord opnieuw in te stellen.",module,Magento_Customer
 "My Account",Account,module,Magento_Customer
 "Invalid login or password.","Ongeldige gebruikersnaam en/of wachtwoord.",module,Magento_Customer
 "New Password and Confirm New Password values didn't match.","Het nieuwe wachtwoord en de bevestiging van het nieuwe wachtwoord komen niet overeen.",module,Magento_Customer
@@ -2171,7 +2171,7 @@ Url,URL,module,Magento_ProductVideo
 "Add video","Video toevoegen",module,Magento_ProductVideo
 "The requested Payment Method is not available.","De gevraagde betaalmethode is niet beschikbaar",module,Magento_Quote
 "We found an invalid request for adding product to quote.","We vonden een ongeldige aanvraag om het product toe te voegen aan de Quote.",module,Magento_Quote
-"This is the wrong quote item id to update configuration.","Dit is het verkeerde quote item id om de configuratie bij te werken.",module,Magento_Quote
+"This is the wrong quote item id to update configuration.","Dit is het verkeerd quote item id om de configuratie bij te werken.",module,Magento_Quote
 "This shipping method is not available. To use this shipping method, please contact us.","Deze verzendmethode is niet beschikbaar. Als u wilt deze verzendmethode gebruiken, neem contact met ons op.",module,Magento_Quote
 "The address model is not defined.","De adres-model is niet gedefinieerd.",module,Magento_Quote
 "Grand Total",Eindtotaal,module,Magento_Quote
